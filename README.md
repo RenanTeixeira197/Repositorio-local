@@ -1,2 +1,2 @@
-# Repositorio-local
+# Repositorio-offline
 Repositorios versionados
